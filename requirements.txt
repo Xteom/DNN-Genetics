@@ -2,3 +2,5 @@ numpy
 pandas
 openpyxl
 plotly
+matplotlib
+-c anaconda scikit-learn
